@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import {Routes,Route} from="react-rouct-dom";//please chect the import rightly
 import './App.css';
 
 function App() {

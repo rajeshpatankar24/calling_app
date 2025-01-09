@@ -1,3 +1,2 @@
-# code_test
-testing
-hello patankar jii ham apki file mil gai hai
+# what we are doing 
+we will maek the react app for live video chating

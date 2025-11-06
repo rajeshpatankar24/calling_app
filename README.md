@@ -1,2 +1,2 @@
 # what we are doing 
-we will maek the react app for live video chating
+We build the real time live chat application using MERN stack.Where two user can call to each other using this application.Features like real time meassage, data exchange in real time update, reasponsive UI, user freindly UI, data security.

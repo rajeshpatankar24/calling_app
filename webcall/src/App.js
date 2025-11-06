@@ -1,4 +1,4 @@
-import {Routes,Route} from="react-rouct-dom";//please chech the import rightly
+import {Routes,Route} from="react-rouct-dom";//please check the import rightly
 import './App.css';
 
 function App() {

@@ -1,13 +1,32 @@
-import {Routes,Route} from="react-rouct-dom";//please chect the import rightly
+import {Routes,Route} from="react-rouct-dom";//please chech the import rightly
 import './App.css';
 
 function App() {
   return (
     <>
-    <h1> Bhai log kuch change bi krna he na  </h1>
-    <h1> Ky bnna he kuch dekha </h1>
-    <h2> Rajesh bhaiya ap  kuch ni kr raha ho </h2>
-    <h4> Haaa toh Kar diya hai changes isme thik </h4> 
+    <h1> let's Build this  </h1>
+    
+    <div>
+     <h2>  Build the REST api for users </h2>
+    <ol>
+    <li>Signup</li>
+     <li>Login</li>
+     <li>logout</li>
+     <li>Setting</li>
+
+
+    </ol>
+    <h2>  Build the REST api for messages </h2>
+    <ol>
+    <li>getmessage</li>
+     <li>sendmaessage</li>
+     <li>recievemessage</li>
+    
+    </ol>
+    <h3>MOre updates.....put here</h3>
+    </div>
+    <>
+     
     
     </>
   );
